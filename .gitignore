@@ -1,0 +1,7 @@
+# Byte-compiled / virtual env / system files
+
+__pycache__/
+*.py[cod]
+venv/
+env/
+*.egg-info/
